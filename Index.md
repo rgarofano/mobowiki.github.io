@@ -1,10 +1,7 @@
----
-id: 1718996742-WBAW
-aliases:
-  - Index
-tags: []
----
-
 # Index
 
-[[How to Diagnose a Motherboard Without Schematics|How to Diagnose a Motherboard Without Schematics]]
+## Main Articles
+* [How to Diagnose a Motherboard Without Schematics](How to Diagnose a Motherboard Without Schematics.md)
+
+## Subtopics
+* [Visual Inspection](Visual Inspection.md)
