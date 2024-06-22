@@ -1,5 +1,3 @@
-# Index
-
 ## Main Articles
 * [How to Diagnose a Motherboard Without Schematics](How to Diagnose a Motherboard Without Schematics.md)
 
