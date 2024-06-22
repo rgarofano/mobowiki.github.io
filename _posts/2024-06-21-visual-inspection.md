@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visual Inspection"
-categories: misc
+categories: posts
 ---
 
-# Visual Inspection
+Nothing here yet :|
