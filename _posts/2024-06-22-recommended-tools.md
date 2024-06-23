@@ -17,3 +17,4 @@ categories: misc
 * [Hot Tweezers Compatible with Hakko FM203-HD](https://a.co/d/091JJAFQ)
 * [Fluke 115 Multimeter](https://a.co/d/07UTyqxq)
 * [Amscope Microscope (Camera Supported)](https://a.co/d/05yllJxv)
+* Infiray P2 Pro Thermal Camera ([iOS](https://a.co/d/0ccwXoze), [Android](https://a.co/d/04JhWRk9))
