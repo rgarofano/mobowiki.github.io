@@ -8,6 +8,7 @@ categories: misc
 * [Hakko FX951-66 Soldering Station](https://a.co/d/0dcLKwiJ)
 * [(Optional) Hakko FM2032-51 Micro Soldering Handpiece](https://a.co/d/0dTC3hxJ)
 * [Fluke 107 Multimeter](https://a.co/d/08I0YDU8)
+* [Atten ST-862D Hot Air Station](https://www.diyfixtool.com/products/atten-st-862d-lead-free-hot-air-gun-soldering-station-for-pcb-repair)
 * [Korad KA3005D Power Supply](https://a.co/d/0jl8SLmK)
 * [Amscope Microscope (No Camera Support)](https://a.co/d/07omLPYc)
 * [Amscope LED Ring Light](https://a.co/d/06Q2gWq6)
