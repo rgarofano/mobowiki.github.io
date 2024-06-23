@@ -37,3 +37,9 @@ Optional Additions
 ## Thermal Camera
 * Infiray P2 Pro Thermal Camera with Macro Lens ([iOS](https://a.co/d/0ccwXoze), [Android](https://a.co/d/04JhWRk9))
 
+## Fume Extractor
+
+| Budget Option  | Premium Option |
+|--------------- | -------------- |
+[NF.Fume](https://northridgefix.com/product/hepa-fume-extractor-smoke-absorber-purifier-nf-fume/) | [Hakko Fume Extractor](https://a.co/d/0dO9wNXB)
+
