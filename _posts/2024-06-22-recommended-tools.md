@@ -4,7 +4,7 @@ title: "Recommended Tools"
 categories: misc
 ---
 
-All the parts listed below are intended for professional use. If you are a hobbyist who does not plan to make money and or run a business using this equipment, cheaper options exist that can meet your needs. I will be providing both a "budget" and "premium" option where applicable. I will only recommend tools that I believe are suitable for professional use; therefore, budget does not necessarily mean cheap. In this context, budget means that it costs less relative to the premium option. I am defining premium as a more expensive option that includes some nice-to-have features you might value. The decision on which one is right for you depends on your own individual situation and preferences.
+All the tools listed below are intended for professional use. If you are a hobbyist who does not plan to make money and or run a business using this equipment, cheaper options exist that can meet your needs. I will be providing both a "budget" and "premium" option where applicable. I will only recommend tools that I believe are suitable for professional use; therefore, budget does not necessarily mean cheap. In this context, budget means that it costs less relative to the premium option. I am defining premium as a more expensive option that includes some nice-to-have features you might value. The decision on which one is right for you depends on your own individual situation and preferences.
 
 ## Soldering Station
 
