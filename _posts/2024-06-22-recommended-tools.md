@@ -16,6 +16,17 @@ Optional Additions
 * [Micro Soldering Handpiece](https://a.co/d/0dTC3hxJ)
 * [Hot Tweezers (Only works with FM203-HD Station)](https://a.co/d/091JJAFQ)
 
+## Consumables
+
+* [Solder](https://a.co/d/03HBQUj1)
+* [Low Melt Solder](https://a.co/d/0i1XlaOb)
+* [Flux](https://a.co/d/0g1XKP0r)
+
+## Tweezers
+
+* [Hakko CHP 3C-SA](https://a.co/d/0byHJ237)
+* [Hakko CHP 7-SA](https://a.co/d/0ai30y2n)
+
 ## Microscope
 
 * [Amscope Microscope (Double Boom Arm, Camera Supported)](https://a.co/d/05yllJxv)
