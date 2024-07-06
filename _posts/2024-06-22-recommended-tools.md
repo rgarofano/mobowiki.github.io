@@ -24,8 +24,9 @@ Optional Additions
 
 ## Tweezers
 
-* [Hakko CHP 3C-SA](https://a.co/d/0byHJ237)
-* [Hakko CHP 7-SA](https://a.co/d/0ai30y2n)
+| Budget Option  | Premium Option |
+|--------------- | -------------- |
+[Hakko CHP 3C-SA](https://a.co/d/0byHJ237) | [Erem E7SA](https://a.co/d/0cJtU3T9)
 
 ## Microscope
 
